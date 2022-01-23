@@ -8,6 +8,7 @@ I made this for some friends in like 5 minutes
 2.Create a new application at https://discord.com/developers/applications then go to bot => create a new bot.
 
 3.Create directory config then create a config.json, open it and put this inside:
+
 {
     "token": COPY AND PASTE THE BOTS' TOKEN HERE WITH DOUBLE QUOTATIONS!
 }
